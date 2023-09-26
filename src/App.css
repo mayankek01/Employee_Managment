@@ -13,6 +13,15 @@
   }
 }
 
+.btn{
+  margin: 3px;
+}
+
+.divbtn{
+  float: right;
+  margin-bottom: 5px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
